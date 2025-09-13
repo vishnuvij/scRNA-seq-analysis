@@ -29,7 +29,4 @@ Applications include studying development, immune responses, and disease progres
 
 ---
 
-## Requirements
-Install the dependencies with:
-```bash
-pip install -r requirements.txt
+
